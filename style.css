@@ -1,0 +1,106 @@
+a:hover {
+    text-decoration: none;
+}
+
+#header {
+    color: black;
+    background-color: yellowgreen;
+    position: relative;
+}
+
+#logo {
+    font-size: 2rem;
+    margin-top: 5px;
+}
+
+#menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#menu li {
+    display: inline-block;
+}
+
+#menu li a {
+    color: black;
+    padding: 15px 10px;
+    display: block;
+    text-decoration: none;
+}
+
+#menu li a:hover {
+    background-color: green;
+    color: white;
+}
+
+#banner {
+    background: url("hero.jpg") no-repeat 0 0;
+    background-size: cover;
+}
+
+.banner-title{
+    padding-top: 5rem;
+}
+
+.banner-title h1 {
+    background: rgba(255, 255, 255, 0.8);
+    display: inline-block;
+    padding: 10px;
+}
+
+.banner-title p.lead{
+    color: black;
+    background-color: rgba(153, 205, 50, 0.7);
+    padding: 10px;
+    font-weight: 600;
+}
+
+#explore .row{
+    display: flex;
+    justify-content: space-around;
+}
+
+#explore .col-md-3{
+    background-color: rgba(153, 205, 50, 0.2);
+    border: 2px solid rgba(0, 0, 0, 0.63);
+    width: 300px;
+    border-radius: 20%;
+    padding: 25px;
+    margin: 15px;
+}
+
+#explore img{
+    padding-bottom: 10px;
+}
+
+#explore button{
+    width: 240px;
+    border-radius: 15%;
+    background-color: yellowgreen;
+}
+
+.footer-sidebar{
+    background-color: yellowgreen;
+    padding: 25px 10px;
+}
+
+.footer-sidebar p{
+display: inline-block;
+}
+
+.footer-sidebar i{
+padding: 10px;
+}
+
+.footer{
+    background-color: green;
+    color: white;
+    padding: 15px 10px;
+}
+
+.footer p{
+    display: inline-block;
+}
+
