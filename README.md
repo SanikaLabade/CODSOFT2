@@ -13,4 +13,4 @@ HTML: Structure of the webpage.
 CSS: Styling and layout of webpage.
 Bootstrap: To make resposive wepage
 
-Contribution Feel free to contribute to the project by suggesting improvements, reporting issues, or submitting pull requests. Your feedback and contributions are highly appreciated!!
+Contribution : Feel free to contribute to the project by suggesting improvements, reporting issues, or submitting pull requests. Your feedback and contributions are highly appreciated!!
